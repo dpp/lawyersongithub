@@ -28,3 +28,13 @@ Member of the California Bar.
 [Personal Website](http://tieguy.org)
 
 [@tieguy](http://twitter.com/tieguy) personal account on Twitter.
+
+## [Martin Galese](https://github.com/fros1y)
+
+Member of the New York Bar.
+
+[Firm Website](http://www.kirkland.com/sitecontent.cfm?contentID=220&itemID=9624)
+
+[Thingiverse Page](http://www.thingiverse.com/fros1y)
+
+[@fros1y](http://twitter.com/fros1y) personal account on Twitter.
