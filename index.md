@@ -38,3 +38,13 @@ Member of the New York Bar.
 [Thingiverse Page](http://www.thingiverse.com/fros1y)
 
 [@fros1y](http://twitter.com/fros1y) personal account on Twitter.
+
+## Law Students
+
+### [Alan deLevie](https://github.com/adelevie)
+
+Student at American University Washington College of Law.
+
+[@adelevie](https://twitter.com/adelevie)
+
+[Personal Website](http://alandelevie.com)
