@@ -39,6 +39,16 @@ Member of the New York Bar.
 
 [@fros1y](http://twitter.com/fros1y) personal account on Twitter.
 
+## [Gil Silberman](https://github.com/gilbug)
+
+Member of the California Bar.
+
+[Firm Website](http://wwww.equityllp.com)
+
+[Personal Website](http://wwww.gilsilberman.com)
+
+[@gilbug](http://twitter.com/gilbug) personal account on Twitter.
+
 ## Law Students
 
 ### [Alan deLevie](https://github.com/adelevie)
