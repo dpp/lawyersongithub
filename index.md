@@ -49,6 +49,14 @@ Member of the California Bar.
 
 [@gilbug](http://twitter.com/gilbug) personal account on Twitter.
 
+## [Brandon Hudgeons](https://github.com/bhudgeons)
+
+Member of the Texas Bar. (inactive).
+
+[@bhudgeons](https://twitter.com/bhudgeons) on Twitter.
+
+[Blog](https://bhudgeons.telegr.am/)
+
 ## Law Students
 
 ### [Alan deLevie](https://github.com/adelevie)
@@ -58,3 +66,4 @@ Student at American University Washington College of Law.
 [@adelevie](https://twitter.com/adelevie)
 
 [Personal Website](http://alandelevie.com)
+
