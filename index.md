@@ -59,6 +59,14 @@ Member of the Texas Bar. (inactive).
 
 ## Law Students
 
+### [Benjamin J. Balter](https://github.com/benbalter/)
+
+J.D./M.B.A. Candidate at The George Washington University
+
+[@benbalter](http://twitter.com/benbalter/)
+
+[ben.balter.com](http://ben.balter/com)
+
 ### [Alan deLevie](https://github.com/adelevie)
 
 Student at American University Washington College of Law.
