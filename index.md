@@ -39,6 +39,14 @@ Member of the New York Bar.
 
 [@fros1y](http://twitter.com/fros1y) personal account on Twitter.
 
+## [Brandon Hudgeons](https://github.com/bhudgeons)
+
+Member of the Texas Bar. (inactive).
+
+[@bhudgeons](https://twitter.com/bhudgeons) on Twitter.
+
+[Blog](https://bhudgeons.telegr.am/)
+
 ## Law Students
 
 ### [Alan deLevie](https://github.com/adelevie)
