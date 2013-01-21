@@ -57,6 +57,14 @@ Member of the Texas Bar. (inactive).
 
 [Blog](https://bhudgeons.telegr.am/)
 
+## [Veronica Picciafuoco](https://github.com/ubervero)
+
+Member of the Milan (Italy) Bar. Inactive.
+
+[@ubervero](https://twitter.com/ubervero) on Twitter.
+
+[Blog & other links](http://vrnc.info/)
+
 ## Law Students
 
 ### [Benjamin J. Balter](https://github.com/benbalter/)
