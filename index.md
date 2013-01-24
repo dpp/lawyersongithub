@@ -49,6 +49,14 @@ Member of the California Bar.
 
 [@gilbug](http://twitter.com/gilbug) personal account on Twitter.
 
+## [Don Cruse](https://github.com/doncruse)
+
+Member of the Texas Bar.
+
+[@doncruse](https://twitter.com/doncruse) on Twitter.
+
+[Blog](http://www.scotxblog.com)
+
 ## [Brandon Hudgeons](https://github.com/bhudgeons)
 
 Member of the Texas Bar. (inactive).
