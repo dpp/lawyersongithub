@@ -104,3 +104,11 @@ Solicitor and Member of Law Society of Ireland.
 [@jkco](https://twitter.com/jkco)
 
 [Personal Website](http://www.jkco.ie)
+
+### [Kyle Mitchell](https://github.com/kemitchell)
+
+Student at The University of Texas School of Law.
+
+[@kemitchell](https://twitter.com/kemitchell)
+
+[Personal Website](http://www.kemitchell.com)
