@@ -89,3 +89,10 @@ Student at American University Washington College of Law.
 
 [Personal Website](http://alandelevie.com)
 
+### [Joe Kane](https://github.com/kanejoe)
+
+Solicitor and Member of Law Society of Ireland.
+
+[@jkco](https://twitter.com/jkco)
+
+[Personal Website](http://www.jkco.ie)
