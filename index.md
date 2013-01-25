@@ -79,6 +79,12 @@ Member of the California Bar.
 
 [Firm Website] (http://www.fenwick.com/professionals/Pages/jasonboehmig.aspx)
 
+## [Chris Murphy](https://github.com/limonjello)
+
+Member of the Texas Bar.
+
+[@cwmatx](http://twitter.com/cwmatx) personal account on Twitter.
+
 ## Law Students
 
 ### [Benjamin J. Balter](https://github.com/benbalter/)
