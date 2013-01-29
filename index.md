@@ -73,11 +73,11 @@ Member of the Milan (Italy) Bar. Inactive.
 
 [Blog & other links](http://vrnc.info/)
 
-## [Jason Boehmig] (https://github.com/jboehmig)
+## [Jason Boehmig](https://github.com/jboehmig)
 
 Member of the California Bar.
 
-[Firm Website] (http://www.fenwick.com/professionals/Pages/jasonboehmig.aspx)
+[Firm Website](http://www.fenwick.com/professionals/Pages/jasonboehmig.aspx)
 
 ## [Chris Murphy](https://github.com/limonjello)
 
