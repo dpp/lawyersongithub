@@ -85,6 +85,16 @@ Member of the Texas Bar.
 
 [@cwmatx](http://twitter.com/cwmatx) personal account on Twitter.
 
+## [Casey Kuhlman](https://github.com/compleatang)
+
+Member of the Tennessee Bar.
+
+[Firm Website](http://watershedlegal.com)
+
+[Personal Website](http://caseykuhlman.com) has all normal coordinates.
+
+[@compleatang](https://twitter.com/compleatang) on Twitter.
+
 ## Law Students
 
 ### [Benjamin J. Balter](https://github.com/benbalter/)
