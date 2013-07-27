@@ -95,6 +95,14 @@ Member of the Tennessee Bar.
 
 [@compleatang](https://twitter.com/compleatang) on Twitter.
 
+## [Joe Merante](https://github.com/joemerante)
+
+Member of the New York Bar.
+
+[Personal Website](http://joemerante.com)
+
+[@joemerante](https://twitter.com/joemerante) on Twitter.
+
 ## Law Students
 
 ### [Benjamin J. Balter](https://github.com/benbalter/)
