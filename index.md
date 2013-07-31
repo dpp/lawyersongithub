@@ -9,7 +9,15 @@ Proving this diagram wrong since 2012:
 All you have to do to join is create a [pull request](https://github.com/dpp/lawyersongithub) with
 information about your bar membership.
 
-Here are the members:
+## Lawyers
+
+## [Justin DuClos](https://github.com/jduclos)
+
+Member of the Massachusetts, New York, Connecticut, Rhode Island, and Louisiana bars.
+
+[Firm Website](http://jduclos.com)
+
+[@j_duclos](https://twitter.com/j_duclos) on Twitter.
 
 ## [David Pollak](https://github.com/dpp)
 
