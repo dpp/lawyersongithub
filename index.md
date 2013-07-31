@@ -95,6 +95,16 @@ Member of the Tennessee Bar.
 
 [@compleatang](https://twitter.com/compleatang) on Twitter.
 
+## [Thom Neale](https://github.com/twneale)
+
+Member of the Bar in New York and Massachussetts.
+
+[Employer website](http://sunlightfoundation.com)
+
+[Personal Website](http://twneale.github.io).
+
+[@twneale](https://twitter.com/twneale) on Twitter.
+
 ## Law Students
 
 ### [Benjamin J. Balter](https://github.com/benbalter/)
