@@ -1,13 +1,8 @@
 # Lawyers on GitHub
 
-A club full of lawyers who also have GitHub accounts. 
-
 Proving this diagram wrong since 2012:
 
 ![Github-Lawyer Venn Diagram](http://philarcher.org/diary/2012/policygit/venn1.png)
-
-All you have to do to join is create a [pull request](https://github.com/dpp/lawyersongithub) with
-information about your bar membership.
 
 ## Lawyers
 
