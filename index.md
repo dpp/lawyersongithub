@@ -105,6 +105,14 @@ Member of the Bar in New York and Massachussetts.
 
 [@twneale](https://twitter.com/twneale) on Twitter.
 
+## [Justin DuClos](https://github.com/jduclos)
+
+Member of the New York, Massachusetts, Connecticut, Rhode Island, and Louisiana bars.
+
+[Firm Website](http://jduclos.com)
+
+[@j_duclos](https://twitter.com/j_duclos) on Twitter.
+
 ## Law Students
 
 ### [Benjamin J. Balter](https://github.com/benbalter/)
