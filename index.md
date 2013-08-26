@@ -113,6 +113,14 @@ Member of the New York, Massachusetts, Connecticut, Rhode Island, and Louisiana 
 
 [@j_duclos](https://twitter.com/j_duclos) on Twitter.
 
+## [Greg Kochansky](https://github.com/gkochans)
+
+Member of the New York and Massachusetts bars.
+
+[Personal website.](http://www.greg-k.com)
+
+[@gregkochansky](https://twitter.com/gregkochansky) on Twitter.
+
 ## Law Students
 
 ### [Benjamin J. Balter](https://github.com/benbalter/)
