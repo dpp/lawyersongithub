@@ -29,11 +29,16 @@ Member of the California Bar.
 
 [@tieguy](http://twitter.com/tieguy) personal account on Twitter.
 
-## [Martin Galese](https://github.com/fros1y)
+## [Martin Galese](http://galese.net)
 
+General Counsel at Formlabs
 Member of the New York Bar.
 
-[Firm Website](http://www.kirkland.com/sitecontent.cfm?contentID=220&itemID=9624)
+[Company Website](http://formlabs.com)
+
+[Personal Website](http://galese.net)
+
+[Blog](http://patent-able.com)
 
 [Thingiverse Page](http://www.thingiverse.com/fros1y)
 
