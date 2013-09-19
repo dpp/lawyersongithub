@@ -113,6 +113,14 @@ Member of the New York, Massachusetts, Connecticut, Rhode Island, and Louisiana 
 
 [@j_duclos](https://twitter.com/j_duclos) on Twitter.
 
+## [Joe Merante](https://github.com/joemerante)
+
+Member of the New York Bar.
+
+[Personal Website](http://joemerante.com)
+
+[@joemerante](https://twitter.com/joemerante) on Twitter.
+
 ## Law Students
 
 ### [Benjamin J. Balter](https://github.com/benbalter/)
