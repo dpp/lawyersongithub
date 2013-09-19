@@ -119,7 +119,13 @@ Member of the New York Bar.
 
 [Personal Website](http://joemerante.com)
 
-[@joemerante](https://twitter.com/joemerante) on Twitter.
+## [Greg Kochansky](https://github.com/gkochans)
+
+Member of the New York and Massachusetts bars.
+
+[Personal website.](http://www.greg-k.com)
+
+[@gregkochansky](https://twitter.com/gregkochansky) on Twitter.
 
 ## Law Students
 
