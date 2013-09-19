@@ -142,11 +142,15 @@ Member of the New York bar
 
 # Lawyers *in* GitHub
 
-### [Benjamin J. Balter](https://github.com/benbalter/)
+## [Benjamin J. Balter](https://github.com/benbalter/)
 
 [@benbalter](http://twitter.com/benbalter/)
 
 [ben.balter.com](http://ben.balter/com)
+
+## [Julio Avalos](https://github.com/hoolio)
+
+[@chopradio](https://twitter.com/chopradio)
 
 ## Law Students
 
