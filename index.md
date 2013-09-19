@@ -127,6 +127,14 @@ Member of the New York and Massachusetts bars.
 
 [@gregkochansky](https://twitter.com/gregkochansky) on Twitter.
 
+## [Sol Irvine](https://github.com/sirvine)
+
+Member of the New York bar
+
+[Firm Website](http://www.yusonirvine.com)
+
+[@solirvine](https://twitter.com/solirvine) on Twitter.
+
 ## Law Students
 
 ### [Benjamin J. Balter](https://github.com/benbalter/)
