@@ -140,15 +140,15 @@ Member of the New York bar
 
 [@solirvine](https://twitter.com/solirvine) on Twitter.
 
-## Law Students
+# Lawyers *in* GitHub
 
 ### [Benjamin J. Balter](https://github.com/benbalter/)
-
-J.D./M.B.A. Candidate at The George Washington University
 
 [@benbalter](http://twitter.com/benbalter/)
 
 [ben.balter.com](http://ben.balter/com)
+
+## Law Students
 
 ### [Alan deLevie](https://github.com/adelevie)
 
