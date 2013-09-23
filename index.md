@@ -130,7 +130,15 @@ Member of the New York and Massachusetts bars.
 
 [Personal website.](http://www.greg-k.com)
 
-[@gregkochansky](https://twitter.com/gregkochansky) on Twitter.
+## [Morris Singer](http://morrissinger.com)
+
+Member of the Bar in New York and Massachusetts.
+
+[Employer website](http://prelitigator.com)
+
+[Personal Website](http://morrissinger.com).
+
+[@morrissinger](https://twitter.com/morrissinger) on Twitter.
 
 ## [Sol Irvine](https://github.com/sirvine)
 
