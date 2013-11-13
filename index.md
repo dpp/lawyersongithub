@@ -148,6 +148,12 @@ Member of the New York bar
 
 [@solirvine](https://twitter.com/solirvine) on Twitter.
 
+## [Nicole Mazanitis](http://github.com/3dIP)
+
+Member of the New York and Massachusetts Bar
+
+[Firm Website](http://curtis.com/sitecontent.cfm?pageid=8&itemid=353)
+
 # Lawyers *in* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
