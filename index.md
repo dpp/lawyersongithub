@@ -154,6 +154,14 @@ Member of the New York and Massachusetts Bar
 
 [Firm Website](http://curtis.com/sitecontent.cfm?pageid=8&itemid=353)
 
+## [Kyle Mitchell](https://github.com/kemitchell)
+
+Member of the California Bar.
+
+[@kemitchell](https://twitter.com/kemitchell)
+
+[Personal Website](https://www.kemitchell.com)
+
 # Lawyers *in* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
@@ -187,11 +195,3 @@ Solicitor and Member of Law Society of Ireland.
 [@jkco](https://twitter.com/jkco)
 
 [Personal Website](http://www.jkco.ie)
-
-### [Kyle Mitchell](https://github.com/kemitchell)
-
-Student at The University of Texas School of Law.
-
-[@kemitchell](https://twitter.com/kemitchell)
-
-[Personal Website](http://www.kemitchell.com)
