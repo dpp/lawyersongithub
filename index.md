@@ -166,6 +166,10 @@ Member of the New York and Massachusetts Bar
 
 [@chopradio](https://twitter.com/chopradio)
 
+## [Martin A. Clausen](https://github.com/maacl)
+
+[Personal Website](http://www.spyfoos.com)
+
 ## Law Students
 
 ### [Alan deLevie](https://github.com/adelevie)
