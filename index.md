@@ -195,3 +195,13 @@ Solicitor and Member of Law Society of Ireland.
 [@jkco](https://twitter.com/jkco)
 
 [Personal Website](http://www.jkco.ie)
+
+### [Joseph Mornin](https://github.com/morninj)
+
+Law student at Berkeley. Currently a legal intern at EFF; worked previously at 
+the Berkman Center for Internet & Society, the Center for Democracy & 
+Technology, and elsewhere.
+
+[@morninj](https://www.twitter.com/morninj)
+
+[Personal Website](http://www.mornin.org/)
