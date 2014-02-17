@@ -216,3 +216,11 @@ Technology, and elsewhere.
 [@morninj](https://www.twitter.com/morninj)
 
 [Personal Website](http://www.mornin.org/)
+
+### [Patrick Ellis](https://github.com/SpartyLegal)
+
+Third year law student at Michigan State University.
+
+[@sparty_legal](https://twitter.com/Sparty_Legal)
+
+[Personal Website](http://patellis.wordpress.com/)
