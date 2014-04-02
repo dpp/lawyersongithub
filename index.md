@@ -237,6 +237,8 @@ Third year law student at Michigan State University.
 
 Law student at Gonzaga University. 2L. Preparing for the patent bar in April.
 
+[@gonzaga_ip_blog](https://twitter.com/Gonzaga_IP_Blog) and [Gonzaga IP Blog](http://www.law.gonzaga.edu/ip-blog)
+
 ### [Wilhelmina Randtke](https://github.com/Randtke)
 
 Member of The Florida Bar, working at St. Mary's University School of Law in San Antonio, Texas.
