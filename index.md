@@ -181,6 +181,18 @@ Member of the Massachusetts Bar. I am founder and CEO of [Casetext](https://www.
 
 [Casetext Profile](https://www.casetext.com/users/35/jake-heller)
 
+## [Pamela Chestek](https://github.com/pchestek)
+
+[@pchestek](https://twitter.com/pchestek)
+
+[Firm website](http://chesteklegal.com)
+
+[Property, intangible blog](http://propertyintangible.com)
+
+Member of the Massachusetts, New York, Connecticut, District of Columbia and North Carolina state bars.
+
+Maintainer of the [Model Trademark Guidelines](http:/modeltrademarkguidelines.org).
+
 # Lawyers *in* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
