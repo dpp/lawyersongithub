@@ -155,7 +155,7 @@ Member of the New York and Massachusetts Bar
 [Firm Website](http://curtis.com/sitecontent.cfm?pageid=8&itemid=353)
 
 ## [Kyle Mitchell](https://github.com/kemitchell)
-
+
 Member of the California Bar.
 
 [@kemitchell](https://twitter.com/kemitchell)
@@ -172,6 +172,14 @@ Member of the Nebraska Bar. I teach Entertainment Law, Legal Ethics, and the Law
 [Law College Site](http://law.unl.edu/facstaff/faculty/visiting/rdooling.shtml)
 
 [Personal Website](http://dooling.com)
+
+## [Jake Heller](https://github.com/jacobheller)
+
+Member of the Massachusetts Bar. I am founder and CEO of [Casetext](https://www.casetext.com).
+
+[@Jacob_Heller](https://www.twitter.com/Jacob_Heller)
+
+[Casetext Profile](https://www.casetext.com/users/35/jake-heller)
 
 # Lawyers *in* GitHub
 
