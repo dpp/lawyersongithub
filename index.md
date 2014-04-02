@@ -238,3 +238,12 @@ Third year law student at Michigan State University.
 Law student at Gonzaga University. 2L. Preparing for the patent bar in April.
 
 [@gonzaga_ip_blog](https://twitter.com/Gonzaga_IP_Blog) and [Gonzaga IP Blog](http://www.law.gonzaga.edu/ip-blog)
+
+### [Brendan O'Connor](https://github.com/ussjoin)
+
+Third-year law student at the University of Wisconsin. Hacker.
+
+[@USSJoin](https://twitter.com/ussjoin)
+
+[Personal Website](http://ussjoin.com)
+
