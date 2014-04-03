@@ -259,3 +259,8 @@ Third-year law student at the University of Wisconsin. Hacker.
 
 [Personal Website](http://ussjoin.com)
 
+### [Christie Dudley](https://github.com/longobord)
+
+Law student at Santa Clara University. Privacy advocate. Founder of Fork the Law.
+
+[@longobord](https://www.twitter.com/longobord)
