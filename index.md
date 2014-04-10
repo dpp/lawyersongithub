@@ -193,6 +193,16 @@ Member of the Massachusetts, New York, Connecticut, District of Columbia and Nor
 
 Maintainer of the [Model Trademark Guidelines](http:/modeltrademarkguidelines.org).
 
+## [Nicholas Zeltzer](https://github.com/nzeltzer)
+
+Member of the California State Bar (262511)
+
+Member of the State Bar of Illinois (some number)
+
+[@nzeltzer](https://twitter.com/nzeltzer) on Twitter.
+
+Founder of [LawBox](http://www.lawbox.com), purveyors of fine legal apps since 2009.
+
 # Lawyers *in* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
