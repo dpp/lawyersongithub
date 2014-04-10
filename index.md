@@ -274,3 +274,9 @@ Third-year law student at the University of Wisconsin. Hacker.
 Law student at Santa Clara University. Privacy advocate. Founder of Fork the Law.
 
 [@longobord](https://www.twitter.com/longobord)
+
+### [Derek Lipkin](https://github.com/dereklipkin)
+
+Member of the State Bar of California (No. 288069). Alumnus of USC Gould School of Law, Class of 2012.
+
+[@dereklipkin](https://www.twitter.com/dereklipkin)
