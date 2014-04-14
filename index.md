@@ -203,6 +203,16 @@ Member of the State Bar of Illinois (some number)
 
 Founder of [LawBox](http://www.lawbox.com), purveyors of fine legal apps since 2009.
 
+## [V. David Zvenyach](https://github.com/vzvenyach)
+
+[@vdavez](http://twitter.com/vdavez)
+
+[Personal website](http://esq.io)
+
+Member of the District of Columbia and New York Bars.
+
+General Counsel for the [Council of the District of Columbia](http://dccouncil.us)
+
 # Lawyers *in* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
