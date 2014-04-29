@@ -290,3 +290,10 @@ Law student at Santa Clara University. Privacy advocate. Founder of Fork the Law
 Member of the State Bar of California (No. 288069). Alumnus of USC Gould School of Law, Class of 2012.
 
 [@dereklipkin](https://www.twitter.com/dereklipkin)
+
+
+### [Stephen Palley](https://github.com/sdpalley)
+
+Member of the State Bars of Missouri, Illinois, New York, and D.C. Alumnus of Washington University (St. Louis) School of Law.
+
+Founder of Palley Law, PLLC (www.palleylaw.com) and co-founder of www.impassebreaker.com.
