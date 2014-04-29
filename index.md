@@ -203,6 +203,12 @@ Member of the State Bar of Illinois (some number)
 
 Founder of [LawBox](http://www.lawbox.com), purveyors of fine legal apps since 2009.
 
+### [Derek Lipkin](https://github.com/dereklipkin)
+
+Member of the State Bar of California (No. 288069). Alumnus of USC Gould School of Law, Class of 2012.
+
+[@dereklipkin](https://www.twitter.com/dereklipkin)
+
 # Lawyers *in* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
@@ -274,9 +280,3 @@ Third-year law student at the University of Wisconsin. Hacker.
 Law student at Santa Clara University. Privacy advocate. Founder of Fork the Law.
 
 [@longobord](https://www.twitter.com/longobord)
-
-### [Derek Lipkin](https://github.com/dereklipkin)
-
-Member of the State Bar of California (No. 288069). Alumnus of USC Gould School of Law, Class of 2012.
-
-[@dereklipkin](https://www.twitter.com/dereklipkin)
