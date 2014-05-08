@@ -307,3 +307,14 @@ Member of the State Bar of California (No. 288069). Alumnus of USC Gould School 
 Member of the State Bars of Missouri, Illinois, New York, and D.C. Alumnus of Washington University (St. Louis) School of Law.
 
 Founder of Palley Law, PLLC (www.palleylaw.com) and co-founder of www.impassebreaker.com.
+
+
+### [Christopher Miller](https://github.com/cristobol)
+
+Member of the State Bars of New York and South Carolina
+
+Founder of Christopher L Miller, Esq., LLC and Doxkit.com
+
+See my blogs at sctrustandestatelaw.com and esquirecoding.com
+
+[@EsqCode](https://www.twitter.com/EsqCode)
