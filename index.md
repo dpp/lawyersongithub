@@ -213,6 +213,16 @@ Member of the District of Columbia and New York Bars.
 
 General Counsel for the [Council of the District of Columbia](http://dccouncil.us)
 
+## [Daniel Schuman] (https://github.com/DanielSchuman)
+
+[@danielschuman](http://twitter.com/danielschuman)
+
+Policy Director at [CREW](http://www.citizensforethics.org/)
+
+[Personal website](http://luminousenchiladas.com/)
+
+Member of the Georgia Bar.
+
 # Lawyers *in* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
