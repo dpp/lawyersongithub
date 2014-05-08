@@ -213,7 +213,7 @@ Member of the District of Columbia and New York Bars.
 
 General Counsel for the [Council of the District of Columbia](http://dccouncil.us)
 
-## [Daniel Schuman] (https://github.com/DanielSchuman)
+## [Daniel Schuman](https://github.com/DanielSchuman)
 
 [@danielschuman](http://twitter.com/danielschuman)
 
@@ -222,6 +222,12 @@ Policy Director at [CREW](http://www.citizensforethics.org/)
 [Personal website](http://luminousenchiladas.com/)
 
 Member of the Georgia Bar.
+
+## [Anthony Prestia](https://github.com/prestia)
+
+Member of the Virginia (active) and Florida (inactive) bars.
+
+[Firm Website](http://www.perkinscoie.com/aprestia/)
 
 # Lawyers *in* GitHub
 
