@@ -239,6 +239,14 @@ Member of the Georgia Bar.
 
 [Personal Website](http://www.spyfoos.com)
 
+## [Preston Byrne](https://github.com/prestonjbyrne)
+
+Solicitor of the Senior Courts in England and Wales (Admitted 2012). Graduate of the University of St. Andrews. Fellow of the Adam Smith Institue and Associate at Norton Rose Fulbright.
+
+[@prestonjbyrne](https://twitter.com/prestonjbyrne) on Twitter.
+
+[Blog](http://prestonbyrne.com)
+
 ## Law Students
 
 ### [Alan deLevie](https://github.com/adelevie)
@@ -307,3 +315,5 @@ Member of the State Bar of California (No. 288069). Alumnus of USC Gould School 
 Member of the State Bars of Missouri, Illinois, New York, and D.C. Alumnus of Washington University (St. Louis) School of Law.
 
 Founder of Palley Law, PLLC (www.palleylaw.com) and co-founder of www.impassebreaker.com.
+
+
