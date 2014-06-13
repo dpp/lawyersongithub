@@ -265,6 +265,18 @@ Solicitor of the Senior Courts in England and Wales (Admitted 2012). Graduate of
 
 [Blog](http://prestonbyrne.com)
 
+### [Stephen Palley](https://github.com/sdpalley)
+
+Member of the State Bars of Missouri, Illinois, New York, and D.C. Alumnus of Washington University (St. Louis) School of Law.
+
+Founder of Palley Law, PLLC (www.palleylaw.com)
+
+### [Derek Lipkin](https://github.com/dereklipkin)
+
+Member of the State Bar of California (No. 288069). Alumnus of USC Gould School of Law, Class of 2012.
+
+[@dereklipkin](https://www.twitter.com/dereklipkin)
+
 ## Law Students
 
 ### [Alan deLevie](https://github.com/adelevie)
@@ -321,17 +333,9 @@ Law student at Santa Clara University. Privacy advocate. Founder of Fork the Law
 
 [@longobord](https://www.twitter.com/longobord)
 
-### [Derek Lipkin](https://github.com/dereklipkin)
-
-Member of the State Bar of California (No. 288069). Alumnus of USC Gould School of Law, Class of 2012.
-
-[@dereklipkin](https://www.twitter.com/dereklipkin)
 
 
-### [Stephen Palley](https://github.com/sdpalley)
 
-Member of the State Bars of Missouri, Illinois, New York, and D.C. Alumnus of Washington University (St. Louis) School of Law.
 
-Founder of Palley Law, PLLC (www.palleylaw.com) and co-founder of www.impassebreaker.com.
 
 
