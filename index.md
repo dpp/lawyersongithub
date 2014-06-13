@@ -2,7 +2,7 @@
 
 A club full of lawyers who also have GitHub accounts. 
 
-Proving this diagram wrong since 2012:
+Proving this diagram wrong since 2009:
 
 ![Github-Lawyer Venn Diagram](http://philarcher.org/diary/2012/policygit/venn1.png)
 
@@ -230,6 +230,16 @@ Member of the California Bar. IP litigator at Computerlaw Group.
 [Personal Website](http://anseljh.com/about/)
 
 [@anseljh](https://twitter.com/anseljh) on Twitter.
+
+## [Javier de la Cueva] (https://github.com/jdelacueva)
+
+Member of Madrid (Spain) Bar. IP litigator. IP lecturer. Joined Github on Feb 24, 2009.
+
+[@jdelacueva] (http://twitter.com/jdelacueva)
+
+[Blog] (http://derecho-internet.org)
+
+[Firm website] (http://javierdelacueva.es)
 
 # Lawyers *in* GitHub
 
