@@ -307,9 +307,11 @@ Technology, and elsewhere.
 
 ### [Patrick Ellis](https://github.com/SpartyLegal)
 
-Third year law student at Michigan State University.
+Project Manager at Honigman Miller Schwartz & Cohn LLP (Detroit, MI).
 
-[@sparty_legal](https://twitter.com/Sparty_Legal)
+[@pmellis](https://twitter.com/pmellis)
+
+[LinkedIn](https://www.linkedin.com/pub/patrick-ellis/55/814/939)
 
 [Personal Website](http://patellis.wordpress.com/)
 
