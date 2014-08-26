@@ -251,6 +251,12 @@ Project Manager at Honigman Miller Schwartz & Cohn LLP. Pending Member of the Mi
 
 [Personal Website](http://patellis.wordpress.com/)
 
+### [Stephen Palley](https://github.com/sdpalley)
+
+Member of the State Bars of Missouri, Illinois, New York, and D.C. Alumnus of Washington University (St. Louis) School of Law.
+
+Founder of Palley Law, PLLC (www.palleylaw.com)
+
 # Lawyers *in* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
@@ -274,12 +280,6 @@ Solicitor of the Senior Courts in England and Wales (Admitted 2012). Graduate of
 [@prestonjbyrne](https://twitter.com/prestonjbyrne) on Twitter.
 
 [Blog](http://prestonbyrne.com)
-
-### [Stephen Palley](https://github.com/sdpalley)
-
-Member of the State Bars of Missouri, Illinois, New York, and D.C. Alumnus of Washington University (St. Louis) School of Law.
-
-Founder of Palley Law, PLLC (www.palleylaw.com)
 
 ### [Derek Lipkin](https://github.com/dereklipkin)
 
