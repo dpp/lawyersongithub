@@ -169,7 +169,7 @@ Member of the Nebraska Bar. I teach Entertainment Law, Legal Ethics, and the Law
 
 [@RichardDooling](https://twitter.com/RichardDooling)
 
-[Law College Site](http://law.unl.edu/facstaff/faculty/visiting/rdooling.shtml)
+[Law College Site](http://law.unl.edu/richard-dooling/)
 
 [Personal Website](http://dooling.com)
 
