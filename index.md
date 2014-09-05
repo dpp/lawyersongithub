@@ -257,6 +257,16 @@ Member of the State Bars of Missouri, Illinois, New York, and D.C. Alumnus of Wa
 
 Founder of Palley Law, PLLC (www.palleylaw.com)
 
+## [Larry Staton Jr.](https://github.com/statonjr)
+
+Member of the North Carolina Bar and the Florida Bar (inactive).
+
+[@statonjr](https://twitter.com/statonjr) on Twitter.
+
+[LinkedIn](https://www.linkedin.com/in/larrystaton/)
+
+[Tumblr](http://statonjr.tumblr.com/)
+
 # Lawyers *in* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
