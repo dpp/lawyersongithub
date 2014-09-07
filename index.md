@@ -345,9 +345,11 @@ Law student at Santa Clara University. Privacy advocate. Founder of Fork the Law
 
 [@longobord](https://www.twitter.com/longobord)
 
+### [Poren Chiang](https://github.com/rschiang)
 
+Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder of [NTU Open Source Community](http://ntuosc.org).
 
+@RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
-
-
+[Personal Website](http://poren.tw)
 
