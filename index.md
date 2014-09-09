@@ -102,9 +102,9 @@ Member of the Tennessee Bar.
 
 ## [Thom Neale](https://github.com/twneale)
 
-Member of the Bar in New York and Massachussetts.
+Member of the Bar in New York and Massachussetts; senior software engineer at Casetext.com.
 
-[Employer website](http://sunlightfoundation.com)
+[Employer website](http://casetext.com)
 
 [Personal Website](http://twneale.github.io).
 
