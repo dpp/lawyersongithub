@@ -285,7 +285,7 @@ Member of the North Carolina Bar and the Florida Bar (inactive).
 
 ## [Preston Byrne](https://github.com/prestonjbyrne)
 
-Solicitor of the Senior Courts in England and Wales (Admitted 2012). Graduate of the University of St. Andrews. Fellow of the Adam Smith Institue and Associate at Norton Rose Fulbright.
+Solicitor of the Senior Courts in England and Wales (Admitted 2011). Graduate of the University of St. Andrews. Fellow of the Adam Smith Institue and Associate at Norton Rose Fulbright.
 
 [@prestonjbyrne](https://twitter.com/prestonjbyrne) on Twitter.
 
