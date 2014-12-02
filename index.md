@@ -267,6 +267,16 @@ Member of the North Carolina Bar and the Florida Bar (inactive).
 
 [Tumblr](http://statonjr.tumblr.com/)
 
+## [Justin G. La](https://github.com/jlasoul)
+
+Member of the California Bar. Tax LL.M. Candidate, May 2015.
+
+[@justingla](https://twitter.com/justingla) on Twitter.
+
+[LinkedIn](http://lnkd.in/wEc66m)
+
+[justinla.com](http://justinla.com)
+
 # Lawyers *in* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
