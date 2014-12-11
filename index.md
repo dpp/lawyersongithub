@@ -241,7 +241,7 @@ Member of Madrid (Spain) Bar. IP litigator. IP lecturer. Joined Github on Feb 24
 
 [Firm website] (http://javierdelacueva.es)
 
-### [Patrick Ellis](https://github.com/SpartyLegal)
+## [Patrick Ellis](https://github.com/SpartyLegal)
 
 Project Manager at Honigman Miller Schwartz & Cohn LLP. Pending Member of the Michigan Bar.
 
@@ -251,7 +251,7 @@ Project Manager at Honigman Miller Schwartz & Cohn LLP. Pending Member of the Mi
 
 [Personal Website](http://patellis.wordpress.com/)
 
-### [Stephen Palley](https://github.com/sdpalley)
+## [Stephen Palley](https://github.com/sdpalley)
 
 Member of the State Bars of Missouri, Illinois, New York, and D.C. Alumnus of Washington University (St. Louis) School of Law.
 
@@ -267,18 +267,6 @@ Member of the North Carolina Bar and the Florida Bar (inactive).
 
 [Tumblr](http://statonjr.tumblr.com/)
 
-# Lawyers *in* GitHub
-
-## [Benjamin J. Balter](https://github.com/benbalter/)
-
-[@benbalter](http://twitter.com/benbalter/)
-
-[ben.balter.com](http://ben.balter/com)
-
-## [Julio Avalos](https://github.com/hoolio)
-
-[@chopradio](https://twitter.com/chopradio)
-
 ## [Martin A. Clausen](https://github.com/maacl)
 
 [Personal Website](http://www.spyfoos.com)
@@ -291,15 +279,31 @@ Solicitor of the Senior Courts in England and Wales (Admitted 2012). Graduate of
 
 [Blog](http://prestonbyrne.com)
 
-### [Derek Lipkin](https://github.com/dereklipkin)
+## [Derek Lipkin](https://github.com/dereklipkin)
 
 Member of the State Bar of California (No. 288069). Alumnus of USC Gould School of Law, Class of 2012.
 
 [@dereklipkin](https://www.twitter.com/dereklipkin)
 
-## Law Students
+# Lawyers *at* GitHub
 
-### [Alan deLevie](https://github.com/adelevie)
+## [Benjamin J. Balter](https://github.com/benbalter/)
+
+[@benbalter](http://twitter.com/benbalter/)
+
+[ben.balter.com](http://ben.balter/com)
+
+## [Julio Avalos](https://github.com/hoolio)
+
+[@chopradio](https://twitter.com/chopradio)
+
+## [Jesse Geraci](https://github.com/jessephus)
+
+Member of the California State Bar.
+
+# Law Students on GitHub
+
+## [Alan deLevie](https://github.com/adelevie)
 
 Student at American University Washington College of Law.
 
@@ -307,7 +311,7 @@ Student at American University Washington College of Law.
 
 [Personal Website](http://alandelevie.com)
 
-### [Joe Kane](https://github.com/kanejoe)
+## [Joe Kane](https://github.com/kanejoe)
 
 Solicitor and Member of Law Society of Ireland.
 
@@ -315,7 +319,7 @@ Solicitor and Member of Law Society of Ireland.
 
 [Personal Website](http://www.jkco.ie)
 
-### [Joseph Mornin](https://github.com/morninj)
+## [Joseph Mornin](https://github.com/morninj)
 
 Law student at Berkeley. Currently a legal intern at EFF; worked previously at 
 the Berkman Center for Internet & Society, the Center for Democracy & 
@@ -325,13 +329,13 @@ Technology, and elsewhere.
 
 [Personal Website](http://www.mornin.org/)
 
-###  [Joseph Cahall](https://github.com/josephcahall)
+##  [Joseph Cahall](https://github.com/josephcahall)
 
 Law student at Gonzaga University. 2L. Preparing for the patent bar in April.
 
 [@gonzaga_ip_blog](https://twitter.com/Gonzaga_IP_Blog) and [Gonzaga IP Blog](http://www.law.gonzaga.edu/ip-blog)
 
-### [Brendan O'Connor](https://github.com/ussjoin)
+## [Brendan O'Connor](https://github.com/ussjoin)
 
 Third-year law student at the University of Wisconsin. Hacker.
 
@@ -339,13 +343,13 @@ Third-year law student at the University of Wisconsin. Hacker.
 
 [Personal Website](http://ussjoin.com)
 
-### [Christie Dudley](https://github.com/longobord)
+## [Christie Dudley](https://github.com/longobord)
 
 Law student at Santa Clara University. Privacy advocate. Founder of Fork the Law.
 
 [@longobord](https://www.twitter.com/longobord)
 
-### [Poren Chiang](https://github.com/rschiang)
+## [Poren Chiang](https://github.com/rschiang)
 
 Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder of [NTU Open Source Community](http://ntuosc.org).
 
