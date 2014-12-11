@@ -23,7 +23,7 @@ Member of the Rhode Island bar (inactive).
 
 Member of the California Bar.
 
-[Firm Website](http://gtlaw.com/People/VillaLuis)
+[Firm Website](http://wikipedia.org)
 
 [Personal Website](http://tieguy.org)
 
@@ -266,6 +266,13 @@ Member of the North Carolina Bar and the Florida Bar (inactive).
 [LinkedIn](https://www.linkedin.com/in/larrystaton/)
 
 [Tumblr](http://statonjr.tumblr.com/)
+
+## [James Hazard](https://github.com/hazardj)
+
+Member of the California, Massachusetts, New York Bar.
+
+## [CommonAccord](https://github.com/CommonAccord/Org)
+
 
 # Lawyers *in* GitHub
 
