@@ -307,6 +307,8 @@ Member of the California State Bar.
 
 Student at American University Washington College of Law.
 
+Developer at [18F](https://18f.gsa.gov).
+
 [@adelevie](https://twitter.com/adelevie)
 
 [Personal Website](http://alandelevie.com)
