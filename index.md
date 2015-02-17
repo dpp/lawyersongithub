@@ -299,6 +299,17 @@ Member of the [Australian Computer Society](http://www.acs.org.au/), Member of t
 
 [@maelorin](https://twitter.com/maelorin) on Twitter.
 
+## [David Colarusso](https://github.com/colarusso)
+
+[@colarusso](http://twitter.com/colarusso)
+
+[Personal website](http://www.davidcolarusso.com)
+
+Curator of QnA Markup, open source expert system and document creation engine for attorneys. [GitHub Wiki](https://github.com/colarusso/QnAMarkup/wiki)
+
+[Member](http://massbbo.org/bbolookup.php?sf=David&sl=Colarusso&sc=) of the Massachusetts Bar.
+
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
