@@ -309,6 +309,16 @@ Curator of QnA Markup, open source expert system and document creation engine fo
 
 [Member](http://massbbo.org/bbolookup.php?sf=David&sl=Colarusso&sc=) of the Massachusetts Bar.
 
+## [Florian Glatz](https://github.com/Flotob)
+
+IP and Competition Law; Compliance in Crypto Economics; Legal Hacking
+
+[Member of Bar Association Berlin, Germany](http://www.rak-berlin.de/site/DE/int/02_rechtsuchende/02_06-anwaltsverzeichnis/anwaltsverzeichnis.php)
+
+[@heckerhut](https://twitter.com/heckerhut) | [keybase.io/ftg](https://keybase.io/ftg)
+
+[blockchain.lawyer](https://blockchain.lawyer)
+
 
 # Lawyers *at* GitHub
 
@@ -383,4 +393,3 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
-
