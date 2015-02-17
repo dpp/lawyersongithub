@@ -285,6 +285,20 @@ Member of the State Bar of California (No. 288069). Alumnus of USC Gould School 
 
 [@dereklipkin](https://www.twitter.com/dereklipkin)
 
+## [Steven R Clark](https://github.com/maelorin)
+
+Barrister and Solicitor in the Supreme Court of South Australia, Australia.
+
+BSc(Hons) LLB/LP(Hons)
+
+Member of the [Australian Computer Society](http://www.acs.org.au/), Member of the [IEEE](http://www.ieee.org/) and [IEEE Computer Society](http://www.computer.org/), Member of the [Association for Computing Machinery](http:///www.acm.org/)
+
+[Sessional Academic](http://people.unisa.edu.au/Steven.Clark), [Information Technology and Mathematical Sciences](http://www.unisa.edu.au/IT-Engineering-and-the-Environment/Information-Technology-and-Mathematical-Sciences/), [University of South Australia](http://www.unisa.edu.au/)
+
+[Lecturer](http://people.unisa.edu.au/Steven.Clark), [SA Institute of Business and Technology](http://www.saibt.sa.edu.au/)
+
+[@maelorin](https://twitter.com/maelorin) on Twitter.
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
