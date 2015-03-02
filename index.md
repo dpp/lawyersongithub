@@ -241,15 +241,13 @@ Member of Madrid (Spain) Bar. IP litigator. IP lecturer. Joined Github on Feb 24
 
 [Firm website] (http://javierdelacueva.es)
 
-## [Patrick Ellis](https://github.com/SpartyLegal)
+## [Patrick Ellis](https://github.com/pmellis)
 
-Project Manager at Honigman Miller Schwartz & Cohn LLP. Pending Member of the Michigan Bar.
+Legal Project Manager at Honigman Miller Schwartz & Cohn LLP, member of the Michigan Bar, broadly interested in the intersection of legal operations, business development, technology and access to justice, with a particular focus on legal project management, process improvement and legal analytics.
 
 [@pmellis](https://twitter.com/pmellis)
 
-[LinkedIn](https://www.linkedin.com/pub/patrick-ellis/55/814/939)
-
-[Personal Website](http://patellis.wordpress.com/)
+[LinkedIn](https://www.linkedin.com/en/patrickmellis)
 
 ## [Stephen Palley](https://github.com/sdpalley)
 
