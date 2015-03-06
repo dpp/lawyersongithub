@@ -211,7 +211,7 @@ Founder of [LawBox](http://www.lawbox.com), purveyors of fine legal apps since 2
 
 Member of the District of Columbia and New York Bars.
 
-General Counsel for the [Council of the District of Columbia](http://dccouncil.us)
+Innovator at [18F](https://18f.gsa.gov).
 
 ## [Daniel Schuman](https://github.com/DanielSchuman)
 
