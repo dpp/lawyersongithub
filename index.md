@@ -323,7 +323,7 @@ IP and Competition Law; Compliance in Crypto Economics; Legal Hacking
 
 Member of the Maryland Bar
 
-Proud graduate of UDC David A. Clarke School of Law
+Proud graduate of [UDC David A. Clarke School of Law](http://law.udc.edu)
 
 Operations @ [18F](https://18f.gsa.gov)
 
