@@ -1,6 +1,6 @@
 # Lawyers on GitHub
 
-A club full of lawyers who also have GitHub accounts. 
+A club full of lawyers who also have GitHub accounts.
 
 Proving this diagram wrong since 2009:
 
@@ -227,7 +227,7 @@ Member of the Georgia Bar.
 
 ## [Ansel Halliburton](https://github.com/anseljh)
 
-Member of the California Bar. IP litigator at Computerlaw Group. 
+Member of the California Bar. IP litigator at Computerlaw Group.
 
 [Personal Website](http://anseljh.com/about/)
 
@@ -365,8 +365,8 @@ Solicitor and Member of Law Society of Ireland.
 
 ## [Joseph Mornin](https://github.com/morninj)
 
-Law student at Berkeley. Currently a legal intern at EFF; worked previously at 
-the Berkman Center for Internet & Society, the Center for Democracy & 
+Law student at Berkeley. Currently a legal intern at EFF; worked previously at
+the Berkman Center for Internet & Society, the Center for Democracy &
 Technology, and elsewhere.
 
 [@morninj](https://www.twitter.com/morninj)
@@ -400,3 +400,7 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
+
+## [Sam Glover](https://github.com/samglover)
+
+Editor in Chief (and web developer) at [Lawyerist.com](https://lawyerist.com). [Minnesota lawyer](http://samglover.net/lawyering/). Various other blogs and websites because I can't stop starting new ones. [@samglover](https://twitter.com/samglover)
