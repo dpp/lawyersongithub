@@ -327,6 +327,17 @@ Proud graduate of UDC David A. Clarke School of Law
 
 Operations @ [18F](https://18f.gsa.gov)
 
+## [Michael Weinberg](https://github.com/mwweinberg)
+
+Member of CA Bar (inactive) and DC Bar (active)
+IP & General Counsel at Shapeways
+
+[@MWeinberg2D](https://twitter.com/mweinberg2d) on Twitter
+
+[Personal Website](http://michaelweinberg.org/)
+
+[Company Website](https://www.shapeways.com/)
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
