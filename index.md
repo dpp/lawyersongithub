@@ -327,6 +327,16 @@ Proud graduate of UDC David A. Clarke School of Law
 
 Operations @ [18F](https://18f.gsa.gov)
 
+## [Alan deLevie](https://github.com/adelevie)
+
+Graduate of American University Washington College of Law.
+
+Developer at [18F](https://18f.gsa.gov).
+
+[@adelevie](https://twitter.com/adelevie)
+
+[Personal Website](http://alandelevie.com)
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
@@ -344,16 +354,6 @@ Operations @ [18F](https://18f.gsa.gov)
 Member of the California State Bar.
 
 # Law Students on GitHub
-
-## [Alan deLevie](https://github.com/adelevie)
-
-Student at American University Washington College of Law.
-
-Developer at [18F](https://18f.gsa.gov).
-
-[@adelevie](https://twitter.com/adelevie)
-
-[Personal Website](http://alandelevie.com)
 
 ## [Joe Kane](https://github.com/kanejoe)
 
