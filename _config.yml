@@ -1,0 +1,32 @@
+name: Lawyers on GitHub
+description: A club full of lawyers who also have GitHub accounts.
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - bower.json
+  - script
+
+markdown: kramdown
+gems:
+  - jemoji
+  - jekyll-mentions
+  - jekyll-sitemap
+
+sass:
+  style: :compressed
+
+collections:
+   - lawyers
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: lawyers
+    values:
+      type: lawyer

@@ -1,0 +1,13 @@
+{
+  "name": "lawyersongithub",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dpp/lawyersongithub",
+  "authors": [],
+  "description": "A club full of lawyers who also have GitHub accounts.",
+  "main": "index.html",
+  "license": "CC0",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass": "~3.3.4"
+  }
+}

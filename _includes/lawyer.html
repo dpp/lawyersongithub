@@ -1,0 +1,20 @@
+<div class="lawyer {{ lawyer.type }}">
+  <h3>
+    <img src="https://github.com/{{ lawyer.github }}.png" alt="{{ lawyer.name }}" width="50" />
+    {{ lawyer.name }} (<a href="https://github.com/{{ lawyer.github }}">@{{ lawyer.github}}</a>)
+  </h3>
+
+  {% if lawyer.bar %}
+    <p><strong>Bar</strong>: {{ lawyer.bar }}</p>
+  {% endif %}
+
+  {% if lawyer.content %}
+    <p class="bio">{{ lawyer.content }}</p>
+  {% endif %}
+
+  <ul class="links">
+    {% for link in lawyer.links %}
+      <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

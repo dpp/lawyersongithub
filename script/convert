@@ -1,0 +1,58 @@
+#! /usr/bin/ruby
+
+require 'open-uri'
+require 'yaml'
+require 'fileutils'
+
+url = "https://raw.githubusercontent.com/dpp/lawyersongithub/master/index.md"
+input = open(url).read
+
+dir = File.expand_path( "../_lawyers", File.dirname(__FILE__))
+FileUtils.rm_rf Dir.glob("#{dir}/*")
+
+names = []
+input.split(/^# /)[1...4].each_with_index do |part, index|
+  part = part.split("Here are the members:\n\n").last if index == 0
+  lawyers = part.split(/^## /).drop(1)
+  lawyers.each do |lawyer|
+    output = {}
+    next unless lines = lawyer.split("\n")
+
+    # Name
+    next unless matches = lines.first.match(/\[([a-z \.']+)\]/i)
+    output["name"] = matches[1]
+
+    # GitHub login
+    next unless matches = lawyer.match(/\(https?\:\/\/(github|twitter)\.com\/([a-z0-9_]+)\/?\)/i)
+    output["github"] = matches[2]
+
+    # This user's account has been renamed but the data file has not been updated
+    output["github"] = "mazanitis" if output["github"] == "3dIP"
+
+    # Bio
+    bio = lines[2].match(/^\[/) ? "" : lines[2]
+
+    # Bar membership
+    if bio && matches = bio.match(/member of the ([a-z ]+)? bar/i)
+      output["bar"] = matches[1].sub(/ ?State/i, "")
+    end
+
+    # Student, GitHubber, etc.
+    output["type"] = "githubber" if index == 1
+    output["type"] = "student"   if index == 2
+
+    links = lawyer.scan(/\[([^\]]+)\] ?\(([^\)]+)\)/)
+    links.reject! { |l| l[1] =~ /github\.com/}
+    output["links"] = {}
+    links.each do |link|
+      link[0] = "Twitter" if link[1] =~ /twitter\.com/
+      output["links"][link[0]] = link[1]
+    end
+
+    yaml = YAML.dump(output)
+    path = File.expand_path "#{output["github"]}.md", dir
+    contents = "#{yaml}---\n\n#{bio}"
+
+   File.write(path, contents)
+  end
+end
