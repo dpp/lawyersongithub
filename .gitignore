@@ -1,3 +1,5 @@
 *~
 _site
 .sass-cache
+assets/vendor/jquery
+assets/vendor/bootstrap-sass/assets/javascripts
