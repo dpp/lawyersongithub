@@ -55,6 +55,6 @@ input.split(/^# /)[1...4].each_with_index do |part, index|
     path = File.expand_path "#{output["github"]}.md", dir
     contents = "#{yaml}---\n\n#{bio}"
 
-   File.write(path, contents)
+    File.write(path, contents)
   end
 end
