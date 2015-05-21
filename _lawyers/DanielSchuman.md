@@ -1,6 +1,6 @@
 ---
 name: Daniel Schuman
-github: DanielSchuman
+github: danielschuman
 links:
   Twitter: http://twitter.com/danielschuman
   CREW: http://www.citizensforethics.org/

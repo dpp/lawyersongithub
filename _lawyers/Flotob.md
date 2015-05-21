@@ -1,6 +1,6 @@
 ---
 name: Florian Glatz
-github: Flotob
+github: flotob
 links:
   Member of Bar Association Berlin, Germany: http://www.rak-berlin.de/site/DE/int/02_rechtsuchende/02_06-anwaltsverzeichnis/anwaltsverzeichnis.php
   Twitter: https://twitter.com/heckerhut

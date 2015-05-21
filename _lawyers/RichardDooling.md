@@ -1,6 +1,6 @@
 ---
 name: Richard Dooling
-github: RichardDooling
+github: richarddooling
 bar: Nebraska
 links:
   Twitter: https://twitter.com/RichardDooling
