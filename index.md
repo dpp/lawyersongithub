@@ -11,6 +11,13 @@ information about your bar membership.
 
 Here are the members:
 
+## [Paul Freeman](https://github.com/FreemanLaw)
+Member of Texas bar.
+
+[@dloptf](http://twitter.com/dloptf) on Twitter.
+
+[Firm Website](https://freemandigitallaw.com/)
+
 ## [David Pollak](https://github.com/dpp)
 
 Member of the Rhode Island bar (inactive).
