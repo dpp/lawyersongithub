@@ -400,3 +400,9 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
+
+## [Santiago Henriquez](https://github.com/SHenriquez)
+
+Member of the Santiago (Chile) Bar. Abogado investido por la Corte Suprema de Chile.
+
+[@SHenriquezCox](https://twitter.com/SHenriquezCox) on Twitter.
