@@ -400,3 +400,11 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
+
+## [Mark Oblad](https://github.com/markoblad)
+
+Founder of Valcu Inc. and member of New York Bar
+
+[@markoblad](https://www.twitter.com/markoblad)
+
+[Company Website](https://valcu.co)
