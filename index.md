@@ -337,6 +337,16 @@ Developer at [18F](https://18f.gsa.gov).
 
 [Personal Website](http://alandelevie.com)
 
+## [Michael B. Smith](https://github.com/thenerdlawyer)
+
+Media & Entertainment lawyer practicing in NY, CA and MA
+
+[@thenerdlawyer](https://twitter.com/thenerdlawyer)
+
+[LinkedIn](http://linkedin.com/in/thenerdlawyer)
+
+[blog](http://blog.thenerdlawyer.com/)
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
