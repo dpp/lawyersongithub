@@ -317,3 +317,10 @@ Member of the State Bars of Missouri, Illinois, New York, and D.C. Alumnus of Wa
 Founder of Palley Law, PLLC (www.palleylaw.com) and co-founder of www.impassebreaker.com.
 
 
+### [Ansel Halliburton](https://github.com/anseljh)
+
+Member of the California Bar. Associate at Kronenberger Rosenfeld. Alum of UC Davis School of Law and UC Berkeley.
+
+[Firm bio](http://www.krinternetlaw.com/attorneys/ansel-halliburton-profile)
+
+[@anseljh](https://twitter.com/anseljh)
