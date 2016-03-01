@@ -343,7 +343,7 @@ Member Number 45328 of the Colorado Bar.
 
 Student of Computer Science at the University of Colorado at Boulder.
 
-Expected Admission to the Patent Bar Spring 2017.
+Expected Admission to the Patent Bar in Spring 2017.
 
 # Lawyers *at* GitHub
 
