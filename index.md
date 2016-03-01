@@ -337,6 +337,14 @@ Developer at [18F](https://18f.gsa.gov).
 
 [Personal Website](http://alandelevie.com)
 
+## [T. Spencer Wise](https://github.com/tswise/)
+
+Member Number 45328 of the Colorado Bar.
+
+Student of Computer Science at the University of Colorado at Boulder.
+
+Expected Admission to the Patent Bar Spring 2017.
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
