@@ -339,7 +339,7 @@ Developer at [18F](https://18f.gsa.gov).
 
 ## [T. Spencer Wise](https://github.com/tswise/)
 
-Member Number 45328 of the Colorado Bar.
+Colorado Bar Member Number 45328.
 
 Student of Computer Science at the University of Colorado at Boulder.
 
