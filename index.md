@@ -92,9 +92,9 @@ Member of the Texas Bar.
 
 ## [Casey Kuhlman](https://github.com/compleatang)
 
-Member of the Tennessee Bar.
+Member of the Tennessee Bar. Former Managing Partner of Watershed Legal Services; currently CEO of Eris Industries.
 
-[Firm Website](http://watershedlegal.com)
+[Company Website](https://erisindustries.com)
 
 [Personal Website](http://caseykuhlman.com) has all normal coordinates.
 
@@ -102,9 +102,9 @@ Member of the Tennessee Bar.
 
 ## [Thom Neale](https://github.com/twneale)
 
-Member of the Bar in New York and Massachussetts.
+Member of the Bar in New York and Massachussetts; senior software engineer at Casetext.com.
 
-[Employer website](http://sunlightfoundation.com)
+[Employer website](http://casetext.com)
 
 [Personal Website](http://twneale.github.io).
 
@@ -163,13 +163,13 @@ Member of the California Bar.
 [Personal Website](https://www.kemitchell.com)
 
 
-## [Richard Dooling](https://github.com/BartlebyScrivener)
+## [Richard Dooling](https://github.com/RichardDooling)
 
 Member of the Nebraska Bar. I teach Entertainment Law, Legal Ethics, and the Law of Mass Media at the University of Nebraska College of Law. I'm also a novelist and screenwriter and fan of MacVim and plain text tools.
 
 [@RichardDooling](https://twitter.com/RichardDooling)
 
-[Law College Site](http://law.unl.edu/facstaff/faculty/visiting/rdooling.shtml)
+[Law College Site](http://law.unl.edu/richard-dooling/)
 
 [Personal Website](http://dooling.com)
 
@@ -211,7 +211,9 @@ Founder of [LawBox](http://www.lawbox.com), purveyors of fine legal apps since 2
 
 Member of the District of Columbia and New York Bars.
 
-General Counsel for the [Council of the District of Columbia](http://dccouncil.us)
+Former General Counsel for the [Council of the District of Columbia](http://dccouncil.us)
+
+Government innovator at [18F](https://18f.gsa.gov)
 
 ## [Daniel Schuman](https://github.com/DanielSchuman)
 
@@ -241,7 +243,101 @@ Member of Madrid (Spain) Bar. IP litigator. IP lecturer. Joined Github on Feb 24
 
 [Firm website] (http://javierdelacueva.es)
 
-# Lawyers *in* GitHub
+## [Patrick Ellis](https://github.com/pmellis)
+
+Legal Project Manager at Honigman Miller Schwartz & Cohn LLP, member of the Michigan Bar, broadly interested in the intersection of legal operations, business development, technology and access to justice, with a particular focus on legal project management, process improvement and legal analytics.
+
+[@pmellis](https://twitter.com/pmellis)
+
+[LinkedIn](https://www.linkedin.com/en/patrickmellis)
+
+## [Stephen Palley](https://github.com/sdpalley)
+
+Member of the State Bars of Missouri, Illinois, New York, and D.C. Alumnus of Washington University (St. Louis) School of Law.
+
+Founder of Palley Law, PLLC (www.palleylaw.com)
+
+## [Larry Staton Jr.](https://github.com/statonjr)
+
+Member of the North Carolina Bar and the Florida Bar (inactive).
+
+[@statonjr](https://twitter.com/statonjr) on Twitter.
+
+[LinkedIn](https://www.linkedin.com/in/larrystaton/)
+
+[Tumblr](http://statonjr.tumblr.com/)
+
+## [Martin A. Clausen](https://github.com/maacl)
+
+[Personal Website](http://www.spyfoos.com)
+
+## [Preston Byrne](https://github.com/prestonjbyrne)
+
+Solicitor of the Senior Courts in England and Wales (Admitted 2012). Graduate of the University of St. Andrews. Fellow of the Adam Smith Institue and COO of Eris Industries.
+
+[@prestonjbyrne](https://twitter.com/prestonjbyrne) on Twitter.
+
+[Blog](http://prestonbyrne.com)
+
+## [Derek Lipkin](https://github.com/dereklipkin)
+
+Member of the State Bar of California (No. 288069). Alumnus of USC Gould School of Law, Class of 2012.
+
+[@dereklipkin](https://www.twitter.com/dereklipkin)
+
+## [Steven R Clark](https://github.com/maelorin)
+
+Barrister and Solicitor in the Supreme Court of South Australia, Australia.
+
+BSc(Hons) LLB/LP(Hons)
+
+Member of the [Australian Computer Society](http://www.acs.org.au/), Member of the [IEEE](http://www.ieee.org/) and [IEEE Computer Society](http://www.computer.org/), Member of the [Association for Computing Machinery](http:///www.acm.org/)
+
+[Sessional Academic](http://people.unisa.edu.au/Steven.Clark), [Information Technology and Mathematical Sciences](http://www.unisa.edu.au/IT-Engineering-and-the-Environment/Information-Technology-and-Mathematical-Sciences/), [University of South Australia](http://www.unisa.edu.au/)
+
+[Lecturer](http://people.unisa.edu.au/Steven.Clark), [SA Institute of Business and Technology](http://www.saibt.sa.edu.au/)
+
+[@maelorin](https://twitter.com/maelorin) on Twitter.
+
+## [David Colarusso](https://github.com/colarusso)
+
+[@colarusso](http://twitter.com/colarusso)
+
+[Personal website](http://www.davidcolarusso.com)
+
+Curator of QnA Markup, open source expert system and document creation engine for attorneys. [GitHub Wiki](https://github.com/colarusso/QnAMarkup/wiki)
+
+[Member](http://massbbo.org/bbolookup.php?sf=David&sl=Colarusso&sc=) of the Massachusetts Bar.
+
+## [Florian Glatz](https://github.com/Flotob)
+
+IP and Competition Law; Compliance in Crypto Economics; Legal Hacking
+
+[Member of Bar Association Berlin, Germany](http://www.rak-berlin.de/site/DE/int/02_rechtsuchende/02_06-anwaltsverzeichnis/anwaltsverzeichnis.php)
+
+[@heckerhut](https://twitter.com/heckerhut) | [keybase.io/ftg](https://keybase.io/ftg)
+
+[blockchain.lawyer](https://blockchain.lawyer)
+
+## [Patrick Bateman](https://github.com/batemapf/)
+
+Member of the Maryland Bar
+
+Proud graduate of UDC David A. Clarke School of Law
+
+Operations @ [18F](https://18f.gsa.gov)
+
+## [Alan deLevie](https://github.com/adelevie)
+
+Graduate of American University Washington College of Law.
+
+Developer at [18F](https://18f.gsa.gov).
+
+[@adelevie](https://twitter.com/adelevie)
+
+[Personal Website](http://alandelevie.com)
+
+# Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
 
@@ -253,29 +349,13 @@ Member of Madrid (Spain) Bar. IP litigator. IP lecturer. Joined Github on Feb 24
 
 [@chopradio](https://twitter.com/chopradio)
 
-## [Martin A. Clausen](https://github.com/maacl)
+## [Jesse Geraci](https://github.com/jessephus)
 
-[Personal Website](http://www.spyfoos.com)
+Member of the California State Bar.
 
-## [Preston Byrne](https://github.com/prestonjbyrne)
+# Law Students on GitHub
 
-Solicitor of the Senior Courts in England and Wales (Admitted 2012). Graduate of the University of St. Andrews. Fellow of the Adam Smith Institue and Associate at Norton Rose Fulbright.
-
-[@prestonjbyrne](https://twitter.com/prestonjbyrne) on Twitter.
-
-[Blog](http://prestonbyrne.com)
-
-## Law Students
-
-### [Alan deLevie](https://github.com/adelevie)
-
-Student at American University Washington College of Law.
-
-[@adelevie](https://twitter.com/adelevie)
-
-[Personal Website](http://alandelevie.com)
-
-### [Joe Kane](https://github.com/kanejoe)
+## [Joe Kane](https://github.com/kanejoe)
 
 Solicitor and Member of Law Society of Ireland.
 
@@ -283,7 +363,7 @@ Solicitor and Member of Law Society of Ireland.
 
 [Personal Website](http://www.jkco.ie)
 
-### [Joseph Mornin](https://github.com/morninj)
+## [Joseph Mornin](https://github.com/morninj)
 
 Law student at Berkeley. Currently a legal intern at EFF; worked previously at 
 the Berkman Center for Internet & Society, the Center for Democracy & 
@@ -293,21 +373,13 @@ Technology, and elsewhere.
 
 [Personal Website](http://www.mornin.org/)
 
-### [Patrick Ellis](https://github.com/SpartyLegal)
-
-Third year law student at Michigan State University.
-
-[@sparty_legal](https://twitter.com/Sparty_Legal)
-
-[Personal Website](http://patellis.wordpress.com/)
-
-###  [Joseph Cahall](https://github.com/josephcahall)
+##  [Joseph Cahall](https://github.com/josephcahall)
 
 Law student at Gonzaga University. 2L. Preparing for the patent bar in April.
 
 [@gonzaga_ip_blog](https://twitter.com/Gonzaga_IP_Blog) and [Gonzaga IP Blog](http://www.law.gonzaga.edu/ip-blog)
 
-### [Brendan O'Connor](https://github.com/ussjoin)
+## [Brendan O'Connor](https://github.com/ussjoin)
 
 Third-year law student at the University of Wisconsin. Hacker.
 
@@ -315,23 +387,16 @@ Third-year law student at the University of Wisconsin. Hacker.
 
 [Personal Website](http://ussjoin.com)
 
-### [Christie Dudley](https://github.com/longobord)
+## [Christie Dudley](https://github.com/longobord)
 
 Law student at Santa Clara University. Privacy advocate. Founder of Fork the Law.
 
 [@longobord](https://www.twitter.com/longobord)
 
-### [Derek Lipkin](https://github.com/dereklipkin)
+## [Poren Chiang](https://github.com/rschiang)
 
-Member of the State Bar of California (No. 288069). Alumnus of USC Gould School of Law, Class of 2012.
+Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder of [NTU Open Source Community](http://ntuosc.org).
 
-[@dereklipkin](https://www.twitter.com/dereklipkin)
+@RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
-
-### [Stephen Palley](https://github.com/sdpalley)
-
-Member of the State Bars of Missouri, Illinois, New York, and D.C. Alumnus of Washington University (St. Louis) School of Law.
-
-Founder of Palley Law, PLLC (www.palleylaw.com) and co-founder of www.impassebreaker.com.
-
-
+[Personal Website](http://poren.tw)
