@@ -233,7 +233,7 @@ Member of the California Bar. IP litigator at Computerlaw Group.
 
 [@anseljh](https://twitter.com/anseljh) on Twitter.
 
-## [Javier de la Cueva] (https://github.com/jdelacueva)
+## [Javier de la Cueva](https://github.com/jdelacueva)
 
 Member of Madrid (Spain) Bar. IP litigator. IP lecturer. Joined Github on Feb 24, 2009.
 
