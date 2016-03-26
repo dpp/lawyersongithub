@@ -337,6 +337,11 @@ Developer at [18F](https://18f.gsa.gov).
 
 [Personal Website](http://alandelevie.com)
 
+## [Alexis Natalie Chun](https://github.com/wabisabiyo/)
+Recovering lawyer == re-socialisation therapy @ [legalese.io](http://www.legalese.io)<br><br>
+Advocate & Solicitor, Supreme Court of Singapore <br>
+Queen Mary, University of London (LL.B, class of 2011)<br>
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
