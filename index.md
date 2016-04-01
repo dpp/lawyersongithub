@@ -337,6 +337,17 @@ Developer at [18F](https://18f.gsa.gov).
 
 [Personal Website](http://alandelevie.com)
 
+## [Antone Johnson](https://github.com/antonejohnson)
+
+[@antonejohnson](http://twitter.com/antonejohnson)
+
+[Firm website](http://bottomlinelawgroup.com)
+
+[Blog at Gust](http://blog.gust.com/author/antone-johnson/)
+
+Member of the [California Bar](http://members.calbar.ca.gov/fal/Member/Detail/188041)
+
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
@@ -352,6 +363,7 @@ Developer at [18F](https://18f.gsa.gov).
 ## [Jesse Geraci](https://github.com/jessephus)
 
 Member of the California State Bar.
+
 
 # Law Students on GitHub
 
