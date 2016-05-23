@@ -337,6 +337,14 @@ Developer at [18F](https://18f.gsa.gov).
 
 [Personal Website](http://alandelevie.com)
 
+## [Wilhelmina Randtke](https://github.com/randtke)
+
+Member of The Florida Bar (bar no. 60035)
+
+Digital Library Services Coordinator at the Florida Academic Library Services Cooperative
+
+[work account on GitHub](https://githum.com/wrandtkeflvc)
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
