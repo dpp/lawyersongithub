@@ -337,6 +337,14 @@ Developer at [18F](https://18f.gsa.gov).
 
 [Personal Website](http://alandelevie.com)
 
+## [Josh Bailes](https://github.com/joshuasbailes/)
+
+Member of the Maryland Bar
+
+Graduate of UDC David A. Clarke School of Law
+
+Agreements Lead/Operations @ [18F](https://18f.gsa.gov)
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
@@ -400,11 +408,3 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
-
-## [Josh Bailes](https://github.com/joshuasbailes/)
-
-Member of the Maryland Bar
-
-Graduate of UDC David A. Clarke School of Law
-
-Agreements Lead/Operations @ [18F](https://18f.gsa.gov)
