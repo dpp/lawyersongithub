@@ -408,3 +408,11 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
+
+## [Johanan Ottensooser](https://github.com/oatsandsugar)
+
+Solicitor of the Supreme Court of New South Wales and the Federal Court of Australia.
+
+LLM Candidate at Cornell Tech; Consultant to [King & Wood Mallesons](http://www.kwm.com/en/knowledge/insights/smart-contracts-open-source-model-dna-digital-analogue-human-20160630); Project Evangelist at [Legalese](https://legalese.com/); [art nerd](https://art100blog.wordpress.com/).
+
+[@Oatsandsugar](https://twitter.com/oatsandsugar)
