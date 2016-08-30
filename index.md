@@ -408,3 +408,9 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
+
+##[Paul Gowder](http://paul-gowder.com) 
+
+Member of the Virginia, Massachusetts, and Louisiana bars (very inactive) + the Oregon bar (exceedingly inactive and suspended for being comically in arrears on extortionate inactive dues). Law professor at the University of Iowa. Data geek, confirmed javascript hater & clojure lover & wannabe smug lisp weenie.
+
+[alt](http://gowder.io) [gh](https://github.com/paultopia)
