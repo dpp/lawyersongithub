@@ -412,5 +412,7 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 ## [Thomas Fleck](https://github.com/fendi911)
 
 German Laywer (Rechtsanwalt)
+
 Member of Rechtsanwaltskammer Sachsen-Anhalt (http://www.rak-sachsen-anhalt.de/)
+
 Website: http://www.le-law.de/
