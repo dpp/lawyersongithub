@@ -11,6 +11,12 @@ information about your bar membership.
 
 Here are the members:
 
+## [Sheel Bedi](https://github.com/sdbedi)
+
+Member of the State Bar of Texas.
+
+[@sheel_bedi](https://twitter.com/sheel_bedi) on Twitter.
+
 ## [David Pollak](https://github.com/dpp)
 
 Member of the Rhode Island bar (inactive).
