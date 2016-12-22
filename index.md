@@ -408,3 +408,13 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
+
+## [Eddie Block](https://github.com/JurisHacker)
+
+Member of the Texas Bar.
+
+[Company Website](http://gardere.com)
+
+[Blog](http://jurishacker.com)
+
+[@jurishacker](http://twitter.com/jurishacker) personal account on Twitter.
