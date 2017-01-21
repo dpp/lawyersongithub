@@ -155,7 +155,7 @@ Member of the New York and Massachusetts Bar
 [Firm Website](http://curtis.com/sitecontent.cfm?pageid=8&itemid=353)
 
 ## [Kyle Mitchell](https://github.com/kemitchell)
-
+
 Member of the California Bar.
 
 [@kemitchell](https://twitter.com/kemitchell)
