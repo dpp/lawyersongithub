@@ -225,6 +225,12 @@ Policy Director at [CREW](http://www.citizensforethics.org/)
 
 Member of the Georgia Bar.
 
+## [Anthony Prestia](https://github.com/prestia)
+
+Member of the Virginia, Florida, and California bars.
+
+[Personal Website](http://prestia.org)
+
 ## [Ansel Halliburton](https://github.com/anseljh)
 
 Member of the California Bar. IP litigator at Computerlaw Group. 
