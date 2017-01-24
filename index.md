@@ -351,6 +351,14 @@ Graduate of UDC David A. Clarke School of Law
 
 Agreements Lead/Operations @ [18F](https://18f.gsa.gov)
 
+## [Akın Ömeroğlu] (https://github.com/aomeroglu)
+
+Member of İstanbul Bar, Turkey (inactive)
+
+Interested in FLOSS Licenses and license management in embeded devieces
+
+[@akinomeroglu](https://www.twitter.com/akinomeroglu)
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
