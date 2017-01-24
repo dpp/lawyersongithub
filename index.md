@@ -351,7 +351,7 @@ Graduate of UDC David A. Clarke School of Law
 
 Agreements Lead/Operations @ [18F](https://18f.gsa.gov)
 
-## [Akın Ömeroğlu] (https://github.com/aomeroglu)
+## [Akın Ömeroğlu] (https://github.com/akinomeroglu)
 
 Member of İstanbul Bar, Turkey (inactive)
 
