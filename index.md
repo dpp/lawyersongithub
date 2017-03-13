@@ -359,6 +359,12 @@ Agreements Lead/Operations @ [18F](https://18f.gsa.gov)
 
 [ben.balter.com](http://ben.balter/com)
 
+## [Nishidh Patel](https://github.com/nishidh41)
+
+Member of the Bar Council of Gujarat, India
+
+[@nishidh41](https://twitter.com/nishidh41)
+
 ## [Julio Avalos](https://github.com/hoolio)
 
 [@chopradio](https://twitter.com/chopradio)
