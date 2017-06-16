@@ -154,15 +154,6 @@ Member of the New York and Massachusetts Bar
 
 [Firm Website](http://curtis.com/sitecontent.cfm?pageid=8&itemid=353)
 
-## [Kyle Mitchell](https://github.com/kemitchell)
-
-Member of the California Bar.
-
-[@kemitchell](https://twitter.com/kemitchell)
-
-[Personal Website](https://www.kemitchell.com)
-
-
 ## [Richard Dooling](https://github.com/RichardDooling)
 
 Member of the Nebraska Bar. I teach Entertainment Law, Legal Ethics, and the Law of Mass Media at the University of Nebraska College of Law. I'm also a novelist and screenwriter and fan of MacVim and plain text tools.
