@@ -351,6 +351,12 @@ Graduate of UDC David A. Clarke School of Law
 
 Agreements Lead/Operations @ [18F](https://18f.gsa.gov)
 
+## [Nathan Reitinger]( https://github.com/nathanReitinger)
+
+Member of the New Hampshire Bar
+
+<a href="https://github.com/nathanReitinger"> <img border="0" alt="github" src="https://raw.githubusercontent.com/nathanReitinger/Blacks8-Mac-Dictionary/master/media/Octocat.png" width="53"><a href="https://www.linkedin.com/in/nathanreitinger"> <img border="0" alt="Linkedin" src="https://raw.githubusercontent.com/nathanReitinger/Blacks8-Mac-Dictionary/master/media/linkedin.png" width="50"><a href="https://scholar.google.com/citations?user=1F8_0PgAAAAJ&hl=en"> <img border="0" alt="Google Scholar" src="https://raw.githubusercontent.com/nathanReitinger/Blacks8-Mac-Dictionary/master/media/gscholar.png" width="45">
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
