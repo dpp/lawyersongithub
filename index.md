@@ -155,7 +155,6 @@ Member of the New York and Massachusetts Bar
 [Firm Website](http://curtis.com/sitecontent.cfm?pageid=8&itemid=353)
 
 ## [Kyle Mitchell](https://github.com/kemitchell)
-
 Member of the California Bar.
 
 [@kemitchell](https://twitter.com/kemitchell)
@@ -239,15 +238,15 @@ Member of the California Bar. IP litigator at Computerlaw Group.
 
 [@anseljh](https://twitter.com/anseljh) on Twitter.
 
-## [Javier de la Cueva] (https://github.com/jdelacueva)
+## [Javier de la Cueva](https://github.com/jdelacueva)
 
 Member of Madrid (Spain) Bar. IP litigator. IP lecturer. Joined Github on Feb 24, 2009.
 
-[@jdelacueva] (http://twitter.com/jdelacueva)
+[@jdelacueva](http://twitter.com/jdelacueva)
 
-[Blog] (http://derecho-internet.org)
+[Blog](http://derecho-internet.org)
 
-[Firm website] (http://javierdelacueva.es)
+[Firm website](http://javierdelacueva.es)
 
 ## [Patrick Ellis](https://github.com/pmellis)
 
@@ -350,6 +349,12 @@ Member of the Maryland Bar
 Graduate of UDC David A. Clarke School of Law
 
 Agreements Lead/Operations @ [18F](https://18f.gsa.gov)
+
+## [Nathan Reitinger]( https://github.com/nathanReitinger)
+
+Member of the New Hampshire Bar
+
+<a href="https://github.com/nathanReitinger"> <img border="0" alt="github" src="https://raw.githubusercontent.com/nathanReitinger/Blacks8-Mac-Dictionary/master/media/Octocat.png" width="40"><a href="https://www.linkedin.com/in/nathanreitinger"> <img border="0" alt="Linkedin" src="https://raw.githubusercontent.com/nathanReitinger/Blacks8-Mac-Dictionary/master/media/linkedin.png" width="36"><a href="https://scholar.google.com/citations?user=1F8_0PgAAAAJ&hl=en"> <img border="0" alt="Google Scholar" src="https://raw.githubusercontent.com/nathanReitinger/Blacks8-Mac-Dictionary/master/media/gscholar.png" width="34">
 
 # Lawyers *at* GitHub
 
