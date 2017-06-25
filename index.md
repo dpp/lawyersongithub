@@ -414,3 +414,9 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
+
+## [Demon Huang](https://github.com/hyh19962008)
+
+Law student at SouthWest Univeisty of Political Science and Law. Preparing for the National Judicial Examination in September. Hoping to get a job in the labour law. Environmentalist. Public advocate.
+
+@DemonsH819(https://www.twitter.com/DemonsH819)
