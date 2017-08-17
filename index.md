@@ -1,6 +1,6 @@
 # Lawyers on GitHub
 
-A club full of lawyers who also have GitHub accounts. 
+A club full of lawyers who also have GitHub accounts.
 
 Proving this diagram wrong since 2009:
 
@@ -233,7 +233,7 @@ Member of the Virginia, Florida, and California bars.
 
 ## [Ansel Halliburton](https://github.com/anseljh)
 
-Member of the California Bar. IP litigator at Computerlaw Group. 
+Member of the California Bar. IP litigator at Computerlaw Group.
 
 [Personal Website](http://anseljh.com/about/)
 
@@ -351,6 +351,14 @@ Graduate of UDC David A. Clarke School of Law
 
 Agreements Lead/Operations @ [18F](https://18f.gsa.gov)
 
+## [David Buser](https://github.com/busdav/)
+
+Member of the Swiss Bar. Legal Director at Apttus.
+
+[@DavidMBuser](https://twitter.com/DavidMBuser?lang=en) on Twitter.
+
+[Blog](https://smartcontracts.live/)
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
@@ -379,8 +387,8 @@ Solicitor and Member of Law Society of Ireland.
 
 ## [Joseph Mornin](https://github.com/morninj)
 
-Law student at Berkeley. Currently a legal intern at EFF; worked previously at 
-the Berkman Center for Internet & Society, the Center for Democracy & 
+Law student at Berkeley. Currently a legal intern at EFF; worked previously at
+the Berkman Center for Internet & Society, the Center for Democracy &
 Technology, and elsewhere.
 
 [@morninj](https://www.twitter.com/morninj)
