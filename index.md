@@ -367,6 +367,14 @@ Agreements Lead/Operations @ [18F](https://18f.gsa.gov)
 
 Member of the California State Bar.
 
+## [Nate Vogel](https://github.com/natev)
+
+Member of the Pennsylvania Bar.
+
+Dir. of Law and Technology at [Community Legal Services](https://clsphila.org)
+
+Working on using open source tech to improve the delivery of civil legal services to low income communities.
+
 # Law Students on GitHub
 
 ## [Joe Kane](https://github.com/kanejoe)
