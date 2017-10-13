@@ -342,6 +342,18 @@ Graduate of UDC David A. Clarke School of Law
 
 Agreements Lead/Operations @ [18F](https://18f.gsa.gov)
 
+## [Dazza J. Greenwood](https://github.com/dazzaji)
+
+
+**Member 630586 of the [Massachusetts Bar](http://209.164.57.134/bbolookup.php?sl=greenwood&sf=&sc=&soundex=&hit=3)** (retired)
+
+**Depreciated Release:** Legal counsel for technology to the Commonwealth of Massachusetts Chief Technology Officer
+
+**Current Release:** Lead business/legal/technical integration consultancy [CIVICS.com](http://civics.com) with this  [bio](http://dazzagreenwood.com/bio.html).
+
+**Beta Release:** Lead [law.MIT.edu](https://law.mit.edu] at MIT (at the [Media Lab](https://www.media.mit.edu) and Co-Chair of [Massachusetts Legal Hackers](https://www.meetup.com/Massachusetts-Legal-Hackers), a Chapter of [LegalHackers.org](https://legalhackers.org). 
+
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
