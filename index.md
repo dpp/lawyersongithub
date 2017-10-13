@@ -1,6 +1,6 @@
 # Lawyers on GitHub
 
-A club full of lawyers who also have GitHub accounts. 
+A club full of lawyers who also have GitHub accounts.
 
 Proving this diagram wrong since 2009:
 
@@ -10,6 +10,12 @@ All you have to do to join is create a [pull request](https://github.com/dpp/law
 information about your bar membership.
 
 Here are the members:
+
+## [Hans Kayaert](https://github.com/HansKayaert)
+
+Member of the New York bar.
+
+[Linkedin](https://be.linkedin.com/in/hans-kayaert-4483221)
 
 ## [David Pollak](https://github.com/dpp)
 
@@ -224,7 +230,7 @@ Member of the Virginia, Florida, and California bars.
 
 ## [Ansel Halliburton](https://github.com/anseljh)
 
-Member of the California Bar. IP litigator at Computerlaw Group. 
+Member of the California Bar. IP litigator at Computerlaw Group.
 
 [Personal Website](http://anseljh.com/about/)
 
@@ -370,8 +376,8 @@ Solicitor and Member of Law Society of Ireland.
 
 ## [Joseph Mornin](https://github.com/morninj)
 
-Law student at Berkeley. Currently a legal intern at EFF; worked previously at 
-the Berkman Center for Internet & Society, the Center for Democracy & 
+Law student at Berkeley. Currently a legal intern at EFF; worked previously at
+the Berkman Center for Internet & Society, the Center for Democracy &
 Technology, and elsewhere.
 
 [@morninj](https://www.twitter.com/morninj)
