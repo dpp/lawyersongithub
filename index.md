@@ -342,6 +342,14 @@ Graduate of UDC David A. Clarke School of Law
 
 Agreements Lead/Operations @ [18F](https://18f.gsa.gov)
 
+## [Bryan Scheiderer](https://github.com/bdscheiderer)
+
+Member of the Missouri Bar
+
+Graduate of the University of Virginia School of Law
+
+[Scheiderer Law Firm, LC](https://www.bdslaw.com/)
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
