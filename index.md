@@ -342,6 +342,16 @@ Graduate of UDC David A. Clarke School of Law
 
 Agreements Lead/Operations @ [18F](https://18f.gsa.gov)
 
+## [Mark Oblad](https://github.com/markoblad/)
+
+Member of the New York Bar
+
+Graduate of UVa Law
+
+Founder at [valcu.co](https://valcu.co/?r=113)
+
+[@markoblad](https://twitter.com/markoblad)
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
