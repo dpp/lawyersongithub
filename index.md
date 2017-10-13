@@ -342,6 +342,16 @@ Graduate of UDC David A. Clarke School of Law
 
 Agreements Lead/Operations @ [18F](https://18f.gsa.gov)
 
+## [Alfredo Bueno](https://github.com/Abueesp)
+
+Member of the [Council of Bars and Law Societies of Europe / Conseil des barreaux européens (CCBE)](http://www.ccbe.eu/index.php)
+
+Member of the [Ilustre Colegio de Abogados de Sevilla](http://icas.es/) - [Consejo General de la Abogacia Española](http://www.abogacia.es/)
+
+[@abueesp](https://twitter.com/abueesp)
+
+[CV](https://es.linkedin.com/in/alfredobueno)
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
@@ -405,3 +415,5 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
+
+
