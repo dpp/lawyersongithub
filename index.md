@@ -11,6 +11,13 @@ information about your bar membership.
 
 Here are the members:
 
+## [David Andrews](https://github.com/DeltaCharlieAlpha)
+
+Member of the Washington State bar.  Owner, CEO, Chief Data Scientist, and sole employee of Legal Analytics, a firm that 
+uses machine learning and natural lanaguage processing to enhance legal analysis.
+
+[Firm Website http://analytics.legal](http://analytics.legal)
+
 ## [David Pollak](https://github.com/dpp)
 
 Member of the Rhode Island bar (inactive).
