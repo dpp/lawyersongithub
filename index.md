@@ -405,3 +405,9 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
+
+## [Matija Šuklje](https://github.com/silverhook)
+
+Lawyer and hacker from Ljubljana, Slovenia. Member and previous Coordinator of [FSFE’s Legal Team](https://fsfe.org/activities/ftf/activities.html). Maintainer of the [Fiduciary License Agreement 2.0](https://fsfe.org/activities/ftf/fla.en.html).
+
+[Personal website & blog](http://matija.suklje.name)
