@@ -405,3 +405,7 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
+
+## [Firoz Nasir](https://github.com/gioiello)
+
+Barrister, Hong Kong and Attorney, California. 
