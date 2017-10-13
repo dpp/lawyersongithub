@@ -405,3 +405,13 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
+
+## [Judson Mitchell](https://github.com/judsonmitchell)
+
+Clinical Professor at [Loyola College of Law, New Orleans](http://law.loyno.edu)
+
+Developer of [ClinicCases](http://cliniccases.com)
+
+Teaches a [Technology and Legal Innovation Cinic](http://loyolalawtech.org)
+
+Member of the [Louisiana Bar](http://lsba.org)
