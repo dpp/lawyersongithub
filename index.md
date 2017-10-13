@@ -342,6 +342,12 @@ Graduate of UDC David A. Clarke School of Law
 
 Agreements Lead/Operations @ [18F](https://18f.gsa.gov)
 
+## [Adam Simon](https://github.com/adam-simon/)
+
+Member of the Budapest Bar (Hungary)
+
+Junior Associate @ [Szecskay Attorneys at Law](https://www.szecskay.com)
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
