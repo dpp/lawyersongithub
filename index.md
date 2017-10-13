@@ -148,6 +148,12 @@ Member of the New York bar
 
 [@solirvine](https://twitter.com/solirvine) on Twitter.
 
+## [Lindsey Marchessault](https://github.com/LindseyAM)
+
+Member of New York and Alberta
+
+[@LMarchessault] on Twitter.
+
 ## [Nicole Mazanitis](http://github.com/3dIP)
 
 Member of the New York and Massachusetts Bar
