@@ -405,3 +405,11 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
+
+## [Thomas Fleck](https://github.com/fendi911)
+
+German Laywer (Rechtsanwalt)
+
+Member of Rechtsanwaltskammer Sachsen-Anhalt (http://www.rak-sachsen-anhalt.de/)
+
+Website: http://www.le-law.de/
