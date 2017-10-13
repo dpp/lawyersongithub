@@ -342,6 +342,15 @@ Graduate of UDC David A. Clarke School of Law
 
 Agreements Lead/Operations @ [18F](https://18f.gsa.gov)
 
+
+## [Johanan Ottensooser](https://github.com/oatsandsugar)
+
+Solicitor of the Supreme Court of New South Wales and the Federal Court of Australia.
+
+LLM Candidate at Cornell Tech; Consultant to [King & Wood Mallesons](http://www.kwm.com/en/knowledge/insights/smart-contracts-open-source-model-dna-digital-analogue-human-20160630); Project Evangelist at [Legalese](https://legalese.com/); [art nerd](https://art100blog.wordpress.com/).
+
+[@Oatsandsugar](https://twitter.com/oatsandsugar)
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
