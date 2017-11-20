@@ -342,6 +342,18 @@ Graduate of UDC David A. Clarke School of Law
 
 Agreements Lead/Operations @ [18F](https://18f.gsa.gov)
 
+## [Hayden Barnes](https://github.com/haydenbarnes)
+
+Member of Georgia Bar
+
+Graduate of the University of Baltimore School of Law.
+
+Civil litigator dusting off my programming skills.
+
+[@unixterminal](https://twitter.com/unixterminal)
+
+[Firm website](https://rivertownlawyer.com)
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
