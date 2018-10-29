@@ -405,3 +405,11 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
+
+## [Ross Campbell](https://github.com/ro5s)
+
+Lawyer. Member of New York Bar. Developing Smart Legal Contracts & Token Sale Standards.
+
+@r_ross_campbell on [Twitter](https://twitter.com/r_ross_campbell)
+
+[Personal Website](https://about.me/r_ross_campbell)
