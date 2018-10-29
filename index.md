@@ -342,6 +342,14 @@ Graduate of UDC David A. Clarke School of Law
 
 Agreements Lead/Operations @ [18F](https://18f.gsa.gov)
 
+## [Ross Campbell](https://github.com/ro5s)
+
+Member of New York Bar. NYU Law Alum.
+
+@r_ross_campbell on [Twitter](https://twitter.com/r_ross_campbell)
+ 
+[Personal Website](https://about.me/r_ross_campbell)
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
