@@ -342,6 +342,18 @@ Graduate of UDC David A. Clarke School of Law
 
 Agreements Lead/Operations @ [18F](https://18f.gsa.gov)
 
+## [Mark Shope](https://github.com/markshope)
+
+[@taiwanlaw](https://twitter.com/taiwanlaw)
+
+[Personal Website](https://www.markshope.com)
+
+[Law Firm Website](https://www.markshopelaw.com)
+
+Member of the Indiana Bar
+
+Attorney of Foreign Legal Affairs in Taiwan
+
 # Lawyers *at* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
