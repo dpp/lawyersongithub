@@ -405,3 +405,9 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
+
+## [Baltasar Cevc](https://github.com/bcevc)
+
+Former IT guy (and still very interested), Open Source advocate, Legal Hackers organizer (#legalhack), [Liquid Legal Institute](https://liquid-legal-institute.com), data in law.
+
+[Personal website](https://cevc-consulting.com/)
